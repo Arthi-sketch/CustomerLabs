@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CustomerLabs/static/css/main.199b63bc.css",
+    "main.js": "/CustomerLabs/static/js/main.9ac75ef3.js",
+    "static/js/453.950999cd.chunk.js": "/CustomerLabs/static/js/453.950999cd.chunk.js",
+    "index.html": "/CustomerLabs/index.html",
+    "main.199b63bc.css.map": "/CustomerLabs/static/css/main.199b63bc.css.map",
+    "main.9ac75ef3.js.map": "/CustomerLabs/static/js/main.9ac75ef3.js.map",
+    "453.950999cd.chunk.js.map": "/CustomerLabs/static/js/453.950999cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199b63bc.css",
+    "static/js/main.9ac75ef3.js"
+  ]
+}
